@@ -39,9 +39,3 @@
         SVM model achieved the highest accuracy, suggesting its effectiveness in predicting customer churn. Further
         details and observations are documented in the notebook.</p>
 
-  <p>Feel free to explore the code and adapt it to your needs. If you encounter any issues or have questions, please
-        create an issue in the repository.</p>
-
-  <p><strong>Note:</strong> Ensure you have the dataset (<code>Telecom-Customer-Churn.csv</code>) and update the file path accordingly.</p>
-
-  <p>Happy coding!😃</p>
